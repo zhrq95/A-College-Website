@@ -1,2 +1,5 @@
 # A-College-Website
-自己编写的学院网站
+A college website with a beautiful UI && many practical functions.
+
+double-click the index.html to start.
+
